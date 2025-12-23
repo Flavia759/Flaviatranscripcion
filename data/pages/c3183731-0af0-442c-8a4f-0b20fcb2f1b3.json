@@ -4,11 +4,12 @@
   "created_by": "Flavia759",
   "title": "desaparecidos mexico libertad lucha ",
   "slug": "desaparecidos-mexico-libertad-lucha",
-  "updated_at": "2025-12-23T20:56:27.636Z",
+  "updated_at": "2025-12-23T21:16:12.792Z",
   "updated_by": "Flavia759",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "8377ccb7-7539-449c-85b1-c76564fa1bae"
-  }
+  },
+  "parent": "806166a2-01a5-442f-8dc1-373ce38eb6cf"
 }
